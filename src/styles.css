@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-image: url(https://img.freepik.com/fotos-premium/imagen-fotografica-foto-stock-fondo-pantalla-hd-8k-hermosa-naturaleza-gratuita_915071-82095.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
